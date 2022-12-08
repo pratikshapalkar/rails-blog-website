@@ -63,3 +63,6 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
  ## Annotate Models
 gem 'annotate'
+
+## Authentication 
+gem 'devise'
